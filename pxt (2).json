@@ -1,0 +1,14 @@
+{
+  "name": "horrorBlocks",
+  "description": "A simple horror block extension",
+  "license": "MIT",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "main.ts",
+    "blocks.json"
+  ],
+  "testFiles": [],
+  "public": true
+}
